@@ -4,7 +4,7 @@
 
 Play around with the demo below and please share feedback. 
 
-For initial launch, I will remove the NFT Marketplace and will focus on developing a lean content and monetization exchange system that supports peer-to-peer and peer-to-business.
+For initial launch, I will adjust the NFT Marketplace and will focus on developing a lean content and monetization exchange system that supports peer-to-peer and peer-to-business. NFTs to be used as agreements between users.
 
 **Brief Description**
 A React + TypeScript demo app for managing live events, media capture, and artist engagement. Includes event browsing, profiles, camera capture flow, and simple analytics.
@@ -40,5 +40,6 @@ PublicEvent, MediaItem, EventSignup, EventAnalytics, Artist
 
 **Getting Started**
 Still developing, will be updated shortly**
+
 
 
