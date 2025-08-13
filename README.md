@@ -1,13 +1,12 @@
 **Happenings App**
 
-A brief description of what this project does and who it's for
+**Status:** Currently updating the backend to turn it into a functioning app with the appropriate keys  and database. It will be updated soon. Play around with the demo below and please share feedback. 
+For initial launch, I will remove the NFT Marketplace and will focus on developing a lean content exchange and monetization that’s supports peer-to-peer and peer-to-business.
 
-
-HPGNS – Creative Media Management Mobile App
+**Brief Description**
 A React + TypeScript demo app for managing live events, media capture, and artist engagement. Includes event browsing, profiles, camera capture flow, and simple analytics.
 
 View on Mobile (Demo) ← https://tinyurl.com/theHappeningsApp
-
 
 **Features**
 Tag: users, events, locations
@@ -38,3 +37,4 @@ PublicEvent, MediaItem, EventSignup, EventAnalytics, Artist
 
 **Getting Started**
 Still developing, will be updated shortly**
+
