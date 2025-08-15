@@ -1,0 +1,47 @@
+### Dependencies
+node_modules/
+
+### Build outputs
+dist/
+build/
+out/
+.next/
+.vercel/
+.netlify/
+
+### Vite
+.vite/
+.vite-*
+
+### Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+### Environment files
+.env
+.env.*
+!.env.example
+
+### Editor/OS
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+
+### Coverage
+coverage/
+
+### TypeScript
+*.tsbuildinfo
+
+### Caches
+.cache/
+.eslintcache
+parcel-cache/
+turbo/
+
+### Misc
+*.local
