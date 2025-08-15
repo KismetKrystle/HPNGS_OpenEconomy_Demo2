@@ -1,0 +1,24 @@
+# Normalize all text files to LF in the repository
+* text=auto eol=lf
+
+# Treat these as text (normalize)
+*.js   text
+*.jsx  text
+*.ts   text
+*.tsx  text
+*.css  text
+*.html text
+*.md   text
+*.json text
+*.yml  text
+*.yaml text
+
+# Keep binaries untouched
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.svg  binary
+*.ico  binary
+*.pdf  binary
